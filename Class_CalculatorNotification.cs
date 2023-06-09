@@ -2,6 +2,6 @@
 {
     public static void Evaluate()
     {
-        Console.WriteLine($"Результат: {CalculatorData.Result}");
+        Console.WriteLine($"Результат: ");
     }
 }
